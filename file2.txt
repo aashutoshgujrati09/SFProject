@@ -1,4 +1,8 @@
-the new file will conflict with master and CR7.
+
 this file is created in master.
 
 rebase with "merge branch bug123"
+
+I have updated this file for master and CR7
+
+conflict is solved now
